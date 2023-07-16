@@ -1,0 +1,23 @@
+/* =================== MEDIA QUERIES (MEDIUM DEVICE) ===================== */
+
+@media screen and (max-width:1024px){
+    .container about__container {
+        grid-template-columns: 1fr;
+
+    } 
+    
+        
+    
+    
+}
+
+
+
+
+
+/* =================== MEDIA QUERIES (SMALL DEVICE) ===================== */
+
+@media screen and (max-width:600px) {
+
+    
+}
